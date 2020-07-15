@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="/Users/tatsuya/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
